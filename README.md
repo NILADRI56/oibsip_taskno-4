@@ -1,3 +1,3 @@
 # this is a project for internship in OASISBYTE
- online examination systre for students
+ online examination system for students
  
